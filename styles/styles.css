@@ -1,10 +1,15 @@
+    /* typography */
     h1, h2 {
-      font-family: 'Abril Fatface', cursive;
-      color: #0f0f3d;
+        font-family: 'Abril Fatface', cursive;
+        color: #0f0f3d;
     }
 
     p, a {
-      font-family: 'Roboto', sans-serif;
-      font-size: 14px;
-      color: #0d0d0d;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        color: #0d0d0d;
     }
+
+    /* layout */
+
+    /* media */
